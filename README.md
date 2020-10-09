@@ -1,1 +1,1 @@
-# presidential_polls
+# US Presidential Polls (Media Odds and Aggregators)
